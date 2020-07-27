@@ -1,2 +1,2 @@
 # Pixelator
-a script that turns an image into pixel art.
+А script that turns an image into pixel art.
